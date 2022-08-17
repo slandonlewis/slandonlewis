@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+### About Me
+  I am a software developer who currently uses Javascript, React, C#, and .NET
+  I have always been fascinated by programs and websites, as well as what goes on behind the scenes
+  
+
+ 🌱 I’m currently learning C#
+ 📫 How to reach me: slandonlewis@gmail.com
+ 
 
 <!--
 **slandonlewis/slandonlewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
