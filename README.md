@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About Me
-  I am a software developer who currently uses Javascript, React, C#, and .NET
+  I am a software developer who currently uses Javascript and C#. 
   I have always been fascinated by programs and websites, as well as what goes on behind the scenes
   
 
