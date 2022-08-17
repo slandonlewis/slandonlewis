@@ -2,7 +2,7 @@
 
 ### About Me
   I am a software developer who currently uses Javascript and C#. 
-  I have always been fascinated by programs and websites, as well as what goes on behind the scenes
+  I have always been fascinated by programs and websites, as well as what goes on behind the scenes!
   
 
  - 🌱 I’m currently learning C#
