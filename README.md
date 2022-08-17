@@ -5,8 +5,8 @@
   I have always been fascinated by programs and websites, as well as what goes on behind the scenes
   
 
- 🌱 I’m currently learning C#
- 📫 How to reach me: slandonlewis@gmail.com
+ - 🌱 I’m currently learning C#
+ - 📫 How to reach me: slandonlewis@gmail.com
  
 
 <!--
