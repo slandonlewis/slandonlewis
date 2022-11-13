@@ -12,5 +12,5 @@
     <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" height="60" width="50" >
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="60" width="50" >
 ### Currently Working On:
-  -Learning Python
+  -Learning Python<br></br>
   -Building a PokeDex App using MVC and SQLite
