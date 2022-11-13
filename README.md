@@ -1,12 +1,12 @@
-## Hi there 👋
+### About Me:
+  I am a junior software developer from Nashville Software School. I have always been fascinated by programs and websites, as well as what goes on behind the scenes!
 
-### About Me
-  I am a software developer who currently uses Javascript and C#. 
-  I have always been fascinated by programs and websites, as well as what goes on behind the scenes!
+### Tech Stack:
   
 
- - 🌱 I’m currently learning C#
- - 📫 How to reach me: slandonlewis@gmail.com
+### Currently Working On:
+  -Learning Python
+  -Building a PokeDex App using MVC and SQLite
  
 
 <!--
