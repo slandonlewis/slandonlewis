@@ -13,4 +13,4 @@
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="60" width="60" >
 ### Currently Working On:
   -Learning Python<br></br>
-  -Building a PokeDex App using MVC and SQLite
+  -Building a PokeDex App using MVC and SQLite 
