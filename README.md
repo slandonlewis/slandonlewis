@@ -7,8 +7,8 @@
     <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" height="50" width="50" >
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" height="50" width="50" >
     <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-dot-net-1175176.png" height="60" width="40" >
-    <img src="https://img.favpng.com/22/9/5/portable-network-graphics-clip-art-database-computer-icons-transparency-png-favpng-T0F5WvejdgKM4LjvP5iYP6N6p.jpg" height="60" width="60" >
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="60" width="60" >
+    <img src="https://img.favpng.com/22/9/5/portable-network-graphics-clip-art-database-computer-icons-transparency-png-favpng-T0F5WvejdgKM4LjvP5iYP6N6p.jpg" height="50" width="50" >
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="50" width="50" >
     <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" height="60" width="60" >
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="60" width="60" >
 ### Currently Working On:
