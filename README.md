@@ -12,5 +12,4 @@
     <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" height="50" width="50" >
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50" width="50" >
 ### Currently Working On:
-  -
   -Javascriptmas Daily Challenge (www.scrimba.com/learn/javascriptmas)
