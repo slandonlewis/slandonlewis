@@ -1,4 +1,6 @@
-### Seth Landon Lewis
+<h1>Seth Landon Lewis</h1>
+**`Full Stack Software Developer`**
+
   I'm an entry level software developer from Nashville Software School. I have always been fascinated by programs and websites, as well as what goes on behind the scenes!
 
 ### Tech Stack:
