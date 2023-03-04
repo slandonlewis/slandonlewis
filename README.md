@@ -1,3 +1,4 @@
+![bannerLI](https://user-images.githubusercontent.com/99150447/217719975-97325582-b01f-4c27-8c09-c7e093928167.png)
 # Seth Landon Lewis
 
 **`Fullstack Software Developer`**
