@@ -16,7 +16,7 @@ I'm an entry level software developer from Nashville Software School. I have alw
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50" width="50" >
 
 <details>
- <summary><h3>💻 My Programming Journey 🧑‍🎓</h3></summary>
+ <summary><h3>💻🧑‍🎓 My Programming Journey</h3></summary>
    I was introduced to the basic programming platform Scratch (scratch.mit.edu) at the age of 9. This website changed my life and sparked my love for programming. I would spend many hours each day building projects for several years to come.
   
   During my last few years of high school, I was introduced to JavaScript. I went through many YouTube playlists, freeCodeCamp lessons, and even Scrimba courses. The more I learned, the hungrier and more excited I became for greater knowledge and progress!
