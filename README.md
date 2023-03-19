@@ -2,7 +2,7 @@
 
 # Seth Landon Lewis
 
-**`Fullstack Software Developer`**
+**`Junior Fullstack Software Developer`**
 
 I'm an entry level software developer fresh out of Nashville Software School. I have always been fascinated by programs and websites, as well as what goes on behind the scenes! 
 
