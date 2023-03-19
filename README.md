@@ -21,7 +21,7 @@ Hey! I am an entry level software developer fresh out of Nashville Software Scho
  <summary><h3> 🧑‍💻 My Programming Journey</h3></summary>
    I was first introduced to the basics of programming through the platform Scratch (scratch.mit.edu) at the age of 9. This website changed my life and sparked my love for programming. I would spend many hours each day building projects for several years to come.
   
-  During my last few years of high school, I was introduced to JavaScript. I went through many YouTube playlists, freeCodeCamp lessons, and even Scrimba courses. The more I learned, the hungrier and more excited I became for greater knowledge and progress!
+  Throughout my last few years of high school, I was introduced to JavaScript. I went through many YouTube playlists, freeCodeCamp lessons, and even Scrimba courses. The more I learned, the hungrier and more excited I became for greater knowledge and progress!
   
   Many years later, I would discover Nashville Software School and take part in the Full Time Web Developer Bootcamp. This 6 month program taught everything from basic data structures, iteration, functions, and debugging to concepts such as using and building Web APIs, working with different programming languages as well as their frameworks and libraries, Object Oriented Programming, and SO much more! But most importantly, they taught us how to work as a team when it came to planning and building projects. All of the solo studying I did prior to that course could never amount to the experience I gained from them.
   
