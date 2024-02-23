@@ -14,6 +14,7 @@ I'm a Nashville Software School graduate and certified Software Developer based 
     <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-dot-net-1175176.png" height="65" width="40" >
     <img src="https://www.svgrepo.com/show/374093/sql.svg" height="55" width="50" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" height="50" width="50" >
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" height="50" width="50">
 
 <details>
  <summary><h3> 🧑‍💻 My Programming Journey</h3></summary>
