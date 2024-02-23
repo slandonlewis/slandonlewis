@@ -12,7 +12,7 @@ I'm a Nashville Software School graduate and certified Software Developer based 
     <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" height="55" width="55" >
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" height="55" width="55" >
     <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-dot-net-1175176.png" height="65" width="40" >
-    <img src="https://www.freeiconspng.com/img/11368" height="55" width="50" >
+    <img src="https://www.svgrepo.com/show/374093/sql.svg" height="55" width="50" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" height="50" width="50" >
 
 <details>
